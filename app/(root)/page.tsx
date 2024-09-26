@@ -29,14 +29,14 @@ const Home = () => {
         </header>
         RECENT TRANSCATIONS
       </div>
-      <RightSidebar 
-    user={loggedIn} 
-    transactions={[]} 
-    banks={[
-        { $id: '1', currentBalance: 123.50 }, 
-        { $id: '2', currentBalance: 123.50 }
-    ]} 
-/>
+      <RightSidebar
+        user={loggedIn}
+        transactions={[]}
+        banks={[
+          { $id: "1", currentBalance: 123.5 },
+          { $id: "2", currentBalance: 123.5 },
+        ]}
+      />
     </section>
   );
 };
