@@ -1,0 +1,18 @@
+[33m16fe222[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m16fe222[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: commit: connected appwrite
+[33m02b476a[m HEAD@{2}: commit: created scalable Forms using React and Zod for form validation, created custom components for validating types
+[33m01cc9ea[m HEAD@{3}: commit: Implement the complete layout
+[33mfa3e032[m HEAD@{4}: commit: Implement the complete layout
+[33m0e4b492[m HEAD@{5}: checkout: moving from main to main
+[33m0e4b492[m HEAD@{6}: commit: right-sidebar-completed
+[33m508b2d9[m HEAD@{7}: commit: sidebar-left
+[33m73e44bb[m HEAD@{8}: reset: moving to HEAD
+[33m73e44bb[m HEAD@{9}: reset: moving to origin/main
+[33m375d7a7[m[33m ([m[1;32mpc[m[33m)[m HEAD@{10}: checkout: moving from main to main
+[33m375d7a7[m[33m ([m[1;32mpc[m[33m)[m HEAD@{11}: checkout: moving from main to main
+[33m375d7a7[m[33m ([m[1;32mpc[m[33m)[m HEAD@{12}: checkout: moving from main to main
+[33m375d7a7[m[33m ([m[1;32mpc[m[33m)[m HEAD@{13}: checkout: moving from main to main
+[33m375d7a7[m[33m ([m[1;32mpc[m[33m)[m HEAD@{14}: checkout: moving from pc to main
+[33m375d7a7[m[33m ([m[1;32mpc[m[33m)[m HEAD@{15}: checkout: moving from main to pc
+[33m375d7a7[m[33m ([m[1;32mpc[m[33m)[m HEAD@{16}: commit: init
+[33mc06f926[m HEAD@{17}: commit (initial): Initial commit from Create Next App
