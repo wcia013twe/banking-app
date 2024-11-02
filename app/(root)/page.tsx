@@ -10,6 +10,8 @@ const Home = () => {
     email: "contact@jsmastery.pro",
   };
 
+  console.log("Logged in user:", loggedIn);
+
   return (
     <section className="home">
       <div className="home-content">

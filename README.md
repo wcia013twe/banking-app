@@ -37,3 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 2:35 appwrite
+3:08 null error 
+  -could be secret key issue
